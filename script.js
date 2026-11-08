@@ -1,7 +1,7 @@
 /* RAU Lab Store — static GitHub Pages edition */
 "use strict";
 
-const WHATSAPP_NUMBER = "6281234567890"; // Ganti jika nomor admin berubah
+const WHATSAPP_NUMBER = "6285727740283"; // Ganti jika nomor admin berubah
 const CART_KEY = "rauLabCart";
 const products = [
   { id:"original-clear", name:"RAU Lab Original Clear", variant:"Original Clear", price:35000, description:"Kilau bening untuk tampilan natural.", tag:"EVERYDAY ESSENTIAL", image:"original-clear.webp" },
